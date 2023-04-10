@@ -11,17 +11,17 @@ _There is a lot of information [here](https://greasyfork.org/en), [here](https:/
 
 ### Slinky
 
-_TamperMonkey script that adds an item in context-menu (right click menu) for easier search_
+_TamperMonkey script that adds an item in context-menu (right click menu) for easier search._
 
-_**AnythingGoogleSlinky.user.js** is provided as an example for a script that adds an option to search for **Anything** on **Google** under the TamperMonkey submenu_
+_**AnythingGoogleSlinky.user.js**_ is provided as an example for a script that adds an option to search for _**Anything**_ on _**Google**_ under the TamperMonkey submenu.
 
-_When clicked, it will get the text that is currently selected and join it with the rest of the url in the format of:_
+When clicked, it will get the text that is currently selected and join it with the rest of the url in the format of:
 
     https://www.google.com/search?q= + selectedtext 
     
-_and open the joined url in a new tab_
+and open the joined url in a new tab.
 
-_Besides the example script there is also a "factory" script that generates a custom TamperMonkey script_
+Besides the example script there is also a "factory" script that generates a custom TamperMonkey script.
 
 ----
 
@@ -34,3 +34,40 @@ _Besides the example script there is also a "factory" script that generates a cu
   * Add the option for menu items name to reflect: Search for **selected text** on **search name**
 
 - Add more factory scripts
+
+--------------------
+
+## Counter-Strike: Global Offensive Scripts
+
+### Installation
+
+- For _**scriptname**_**.nut** scripts
+    
+    * Copy the script file to 
+    
+            Counter-Strike Global Offensive\csgo\scripts\vscripts
+            
+    * Execute the script in the Developer Console using:
+    
+            script_execute scriptname
+            
+--------------------
+
+### Jumpin' VAC Flash
+
+_Squirrel script for calculating distance jumped, and displaying lenght in units, in chat._
+
+#### Usage
+
+ - Execute the script using:
+ 
+        script_execute jjf
+        script_execute PreJump()
+        
+ - You can create a custom bind to _"toggle"_ the script with:
+ 
+        bind "keyname" "script TogglePause()"
+        
+   where _**keyname**_ equals to a keyboard key name. 
+   
+   _look into CS:GO cfg bindings for more information_
