@@ -55,7 +55,7 @@ Besides the example script there is also a "factory" script that generates a cus
 
 ### Jumpin' VAC Flash
 
-_Squirrel script for calculating distance jumped, and displaying lenght in units, in chat._
+_Squirrel script for calculating distance jumped, and displaying the lenght in units, in chat._
 
 #### Usage
 
