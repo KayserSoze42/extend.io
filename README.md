@@ -9,7 +9,7 @@ _There is a lot of information [here](https://greasyfork.org/en), [here](https:/
 
 --------------------
 
-### [Slinky](https://github.com/KayserSoze42/extend.io/new/main/src/SlinkySearch/JS)
+### [Slinky](https://github.com/KayserSoze42/extend.io/tree/main/src/SlinkySearch/JS)
 
 --------------------
 
