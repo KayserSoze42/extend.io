@@ -9,31 +9,7 @@ _There is a lot of information [here](https://greasyfork.org/en), [here](https:/
 
 --------------------
 
-### Slinky
-
-_TamperMonkey script that adds an item in context-menu (right click menu) for easier search._
-
-_**AnythingGoogleSlinky.user.js**_ is provided as an example for a script that adds an option to search for _**Anything**_ on _**Google**_ under the TamperMonkey submenu.
-
-When clicked, it will get the text that is currently selected and join it with the rest of the url in the format of:
-
-    https://www.google.com/search?q= + selectedtext 
-    
-and open the joined url in a new tab.
-
-Besides the example script there is also a "factory" script that generates a custom TamperMonkey script.
-
-----
-
-#### Planned Changes
-
-- Add script for GreaseMonkey (It was made for it originally)
-
-- Increase functionality
-
-  * Add the option for menu items name to reflect: Search for **selected text** on **search name**
-
-- Add more factory scripts
+### [Slinky](https://github.com/KayserSoze42/extend.io/new/main/src/SlinkySearch/JS)
 
 --------------------
 
@@ -53,21 +29,4 @@ Besides the example script there is also a "factory" script that generates a cus
             
 --------------------
 
-### Jumpin' VAC Flash
-
-_Squirrel script for calculating distance jumped, and displaying the lenght in units, in chat._
-
-#### Usage
-
- - Execute the script using:
- 
-        script_execute jjf
-        script_execute PreJump()
-        
- - You can create a custom bind to _"toggle"_ the script with:
- 
-        bind "keyname" "script TogglePause()"
-        
-   where _**keyname**_ equals to a keyboard key name. 
-   
-   _look into CS:GO cfg bindings for more information_
+### [Jumpin' VAC Flash](https://github.com/KayserSoze42/extend.io/tree/main/src/jumpinvacflash)
