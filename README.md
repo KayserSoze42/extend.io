@@ -1,7 +1,7 @@
 # extend.io
 _A silly collection of scripts_
 
-## GreaseMonkey / TamperMonkey Scripts
+## Greasemonkey / Tampermonkey Scripts
 
 ### Installation
 
