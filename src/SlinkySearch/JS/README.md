@@ -1,8 +1,8 @@
 ### Slinky
 
-_TamperMonkey script that adds an item in context-menu (right click menu) for easier search._
+_Tampermonkey script that adds an item in context-menu (right click menu) for easier search._
 
-_**AnythingGoogleSlinky.user.js**_ is provided as an example for a script that adds an option to search for _**Anything**_ on _**Google**_ under the TamperMonkey submenu.
+_**AnythingGoogleSlinky.user.js**_ is provided as an example for a script that adds an option to search for _**Anything**_ on _**Google**_ under the Tampermonkey submenu.
 
 When clicked, it will get the text that is currently selected and join it with the rest of the url in the format of:
 
@@ -10,13 +10,13 @@ When clicked, it will get the text that is currently selected and join it with t
     
 and open the joined url in a new tab.
 
-Besides the example script there is also a "factory" script that generates a custom TamperMonkey script.
+Besides the example script there is also a "factory" script that generates a custom Tampermonkey script.
 
 ----
 
 #### Planned Changes
 
-- Add script for GreaseMonkey (It was made for it originally)
+- Add script for Greasemonkey (It was made for it originally)
 
 - Increase functionality
 
