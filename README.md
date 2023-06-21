@@ -48,6 +48,8 @@ see also [SlinkySearch](https://github.com/KayserSoze42/extend.io/tree/main/src/
 
 ### Ø [Jumpin' VAC Flash](https://github.com/KayserSoze42/extend.io/tree/main/src/jumpinvacflash)
 
+#### VScript/Squirrel File: [.nut](https://github.com/KayserSoze42/extend.io/tree/main/src/jumpinvacflash/jjf.nut) 
+
 ### ════════════ 
 
 ## █▓▒░ [Crimes++ Against Humanity](https://github.com/KayserSoze42/extend.io/tree/main/src/Cpp)
