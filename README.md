@@ -11,6 +11,8 @@ _There is a lot of information [here](https://greasyfork.org/en), [here](https:/
 
 ### [Slinky](https://github.com/KayserSoze42/extend.io/tree/main/src/SlinkySearch/JS)
 
+### [C-mo](https://github.com/KayserSoze42/extend.io/tree/main/src/C-mo)
+
 --------------------
 
 ## Counter-Strike: Global Offensive Scripts
