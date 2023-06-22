@@ -16,3 +16,13 @@ _Squirrel script for calculating distance jumped, and displaying the lenght in u
    where _**keyname**_ equals to a keyboard key name. 
    
    _look into CS:GO cfg bindings for more information_
+
+#### References 
+
+ - [CS GO cfg bindings](https://www.google.com/search?q=cs+go+bindings)
+
+ - [VScript](https://developer.valvesoftware.com/wiki/VScript)
+
+ - [Squirrel](https://developer.valvesoftware.com/wiki/Squirrel)
+
+ - [Bunnyhop](https://developer.valvesoftware.com/wiki/CS:GO_VScript_Examples)
