@@ -81,3 +81,15 @@ see also [SlinkySearch](https://github.com/KayserSoze42/extend.io/tree/main/src/
 see also [SlinkySearch](https://github.com/KayserSoze42/extend.io/tree/main/src/SlinkySearch)
 
 ### ════════════
+
+## █▓▒░ [Python's Flying Circus](https://github.com/KayserSoze42/extend.io/tree/main/src/neveroddoreven)
+
+### ════════════
+
+### Ø [Speedtestbeta](https://github.com/KayserSoze42/extend.io/tree/main/src/neveroddoreven/lanscanner/Speedtestbeta.py)
+
+### Ø [hearYe](https://github.com/KayserSoze42/extend.io/tree/main/src/neveroddoreven/lanscanner/hearYe.py)
+
+### Ø [lanscanner](https://github.com/KayserSoze42/extend.io/tree/main/src/neveroddoreven/lanscanner/lanscanner.py)
+
+### ════════════
