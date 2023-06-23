@@ -12,5 +12,5 @@ _IRC, IIRC.._
 
 ### [lanscanner](https://github.com/KayserSoze42/extend.io/tree/main/src/neveroddoreven/lanscanner/lanscanner.py)
 
-_Yet another interpretation of The Police's Message in a Bottle._
+_Another interpretation of The Police's Message in a Bottle._
 
