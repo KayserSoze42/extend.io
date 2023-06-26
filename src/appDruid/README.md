@@ -2,7 +2,7 @@
 
 _You are now a developer!_
 
-Again, victim of _entropy._ I just found the .apk on my phone (Among others, grep almighty..) and thought that it was silly enough (Although, not a script?).
+Again, another victim of _entropy._ I just found the .apk on my phone (Among others, grep almighty..) and thought that it was silly enough (Although, not a script?).
 
 ![as](https://github.com/KayserSoze42/extend.io/blob/main/src/appDruid/demo.png/?raw=true)
 
