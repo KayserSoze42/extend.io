@@ -2,8 +2,8 @@
 
 _You are now a developer!_
 
-Again, victim of _entropy._ I just found the .apk on my phone (among others, grep almighty..) and thought that it was silly enough.
+Again, victim of _entropy._ I just found the .apk on my phone (Among others, grep almighty..) and thought that it was silly enough (Although, not a script?).
 
-The computer it was written, is also a [funny story](https://en.wikipedia.org/wiki/Ship_of_Theseus) so .apks is all I have.
+The computer it was written on, is also a [funny story](https://en.wikipedia.org/wiki/Ship_of_Theseus) so .apks is all I have.
 
-I am uploading the unsigned .apk file, and creating this README.md as a silly entry and a lesson for otters.
+I am uploading the unsigned [.apk](https://github.com/KayserSoze42/extend.io/releases/tag/0.0.1-app-druid) file, and creating this README.md as a silly entry and a lesson for otters.
