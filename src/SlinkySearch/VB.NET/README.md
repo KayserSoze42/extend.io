@@ -1,4 +1,4 @@
-## █▓▒░ SLinky - a Visual Basic .Net project
+## █▓▒░ SLinky - a Visual Basic .NET project
 
 ### ════════════
 
