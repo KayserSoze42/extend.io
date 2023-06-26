@@ -98,7 +98,7 @@ see also [SlinkySearch](https://github.com/KayserSoze42/extend.io/tree/main/src/
 
 #### [.py file](https://github.com/KayserSoze42/extend.io/blob/main/src/neveroddoreven/theOzone/theOzone.py)
 
-_See also: [SaveTheOzone](https://github.com/KayserSoze42/SaveTheOzone), [ozone](https://www.plaintech.ink/ozone) [project](https://github.com/KayserSoze42/ozone), [appDruid](https://github.com/KayserSoze42/extend.io/tree/main/src/appDruid)_
+see also: [SaveTheOzone](https://github.com/KayserSoze42/SaveTheOzone), [ozone](https://www.plaintech.ink/ozone) [project](https://github.com/KayserSoze42/ozone), [appDruid](https://github.com/KayserSoze42/extend.io/tree/main/src/appDruid)
 
 ### ════════════
 
@@ -111,7 +111,7 @@ _See also: [SaveTheOzone](https://github.com/KayserSoze42/SaveTheOzone), [ozone]
 
 ### Ø [appDruid](https://github.com/KayserSoze42/extend.io/tree/main/src/appDruid)
 
-See also [SaveTheOzone](https://github.com/KayserSoze42/SaveTheOzone), [ozone](https://www.plaintech.ink/ozone) [project](https://github.com/KayserSoze42/ozone), [theOzone](https://github.com/KayserSoze42/extend.io/tree/main/src/neveroddoreven/theOzone)
+see also [SaveTheOzone](https://github.com/KayserSoze42/SaveTheOzone), [ozone](https://www.plaintech.ink/ozone) [project](https://github.com/KayserSoze42/ozone), [theOzone](https://github.com/KayserSoze42/extend.io/tree/main/src/neveroddoreven/theOzone)
 
 ### ════════════
 
