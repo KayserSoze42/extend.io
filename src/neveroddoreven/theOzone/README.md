@@ -2,9 +2,9 @@
 
 I'm done. I lost so many fun stuff, but have a bunch of ozone algores spread around.
 
-Still it's a pretty cilly [one](https://github.com/KayserSoze42/extend.io/blob/main/src/neveroddoreven/theOzone/theOzone.py).
+Still it's a pretty _ctrl+cilly_ [one](https://github.com/KayserSoze42/extend.io/blob/main/src/neveroddoreven/theOzone/theOzone.py).
 
-As I see it is just another version of the ozone idea, but this time going CLI..
+As I see it, it is just another version of the ozone idea, but this time going CLI..
 
 \+__**pyperclip**__ for a fast and furious conversion..
 
