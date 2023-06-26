@@ -93,3 +93,15 @@ see also [SlinkySearch](https://github.com/KayserSoze42/extend.io/tree/main/src/
 ### Ø [lanscanner](https://github.com/KayserSoze42/extend.io/tree/main/src/neveroddoreven/lanscanner/lanscanner.py)
 
 ### ════════════
+
+## █▓▒░ root
+
+### ════════════
+
+### Ø [appDruid](https://github.com/KayserSoze42/extend.io/tree/main/src/appDruid)
+
+See also [SaveTheOzone](https://github.com/KayserSoze42/SaveTheOzone), [ozone](https://github.com/KayserSoze42/ozone)
+
+### ════════════
+
+
