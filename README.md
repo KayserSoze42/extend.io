@@ -76,7 +76,7 @@ see also [SlinkySearch](https://github.com/KayserSoze42/extend.io/tree/main/src/
 
 ### Ø [SLinky - CLI](https://github.com/KayserSoze42/extend.io/tree/main/src/SlinkySearch/VB.NET)
 
-### Ø [VB Slinky](https://github.com/KayserSoze42/extend.io/tree/main/src/SlinkySearch/VBScript)
+### Ø [VB Slinky](https://github.com/KayserSoze42/extend.io/blob/main/src/SlinkySearch/VBScript/AnythingGoogleSlinky.vbs)
 
 see also [SlinkySearch](https://github.com/KayserSoze42/extend.io/tree/main/src/SlinkySearch)
 
