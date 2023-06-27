@@ -1,6 +1,6 @@
 # appDruid
 
-Again, another victim of _entropy._ I just found the .apk on my phone (Among others, grep almighty..) and thought that it was silly enough. 
+Again, another victim of _entropy._ I just found the .apk on my phone _(among others, grep almighty..)_ and thought that it was silly enough. 
 
 All 10 lines were written in [_**Kotlin.**_](https://en.wikipedia.org/wiki/Kotlin_Island)
 
