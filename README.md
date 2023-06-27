@@ -1,6 +1,6 @@
 # extend.io
 
-_A silly collection_
+_A silly collection._
 
 ## █▓▒░ Greasemonkey / Tampermonkey Scripts
 
