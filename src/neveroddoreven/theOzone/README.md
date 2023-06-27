@@ -8,6 +8,6 @@ As I see it, it is just another version of the ozone idea, but this time going C
 
 \+__**pyperclip**__ for a fast and furious conversion..
 
-_See also: [SaveTheOzone](https://github.com/KayserSoze42/SaveTheOzone), [ozone](https://www.plaintech.ink/ozone) [project](https://github.com/KayserSoze42/ozone), [appDruid](https://github.com/KayserSoze42/extend.io/tree/main/src/appDruid)_
+_See also: [SaveTheOzone](https://github.com/KayserSoze42/SaveTheOzone), [ozone](https://www.plaintech.ink/ozone) [project](https://github.com/KayserSoze42/ozone), [appDruid](https://github.com/KayserSoze42/extend.io/tree/main/src/root/appDruid)_
 
 _[oxygen3?](https://github.com/KayserSoze42/oxygen3)_
