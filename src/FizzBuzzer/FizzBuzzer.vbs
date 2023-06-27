@@ -51,3 +51,7 @@ For i = 1 To CInt(range)
   eSheet.Cells(i+1,3).Value = reason
   
 Next
+
+Set excelApp = Nothing
+Set excelWorkbook = Nothing
+Set eSheet = Nothing

@@ -10,7 +10,8 @@ searchItem = "Anything"
 searchName = "Google"
 search = InputBox("Search for " & searchItem & " on " & searchName, "Slinky Search")
 fullUrl = urlStart & search & urlEnd
-set objShell = CreateObject("Shell.Application")
+Set objShell = CreateObject("Shell.Application")
 objShell.ShellExecute "firefox.exe", fullUrl, "", "", 1
+Set objShell = Nothing
 
 
