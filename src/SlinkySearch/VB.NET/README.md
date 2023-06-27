@@ -6,11 +6,6 @@
 
 _Download the [.zip file](https://github.com/KayserSoze42/extend.io/releases/tag/0.0.1-slinky-cli), extract and run setup.exe._
 
-_must sell kernel to win nt, in order to work._
-
-_imho, all for science. also [nostalgia](https://winworldpc.com/product/microsoft-visual-bas/50)._
-
-
 ### ════════════
 
 ### ¿ Usage
@@ -37,12 +32,8 @@ _**%AppData%** is one interesting choice.._
 
 ![init](https://github.com/KayserSoze42/extend.io/blob/main/src/SlinkySearch/VB.NET/guides/SLinky%20VB.NET/4.png/?raw=true)
 
-_and people are anti-win32.._
-
-[_kek_](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish)
-
 ### ════════════
 
-
+[nostalgia](https://winworldpc.com/product/microsoft-visual-bas/50)
 
 [funny pics](https://en.wikipedia.org/wiki/Visual_Basic_(classic))
