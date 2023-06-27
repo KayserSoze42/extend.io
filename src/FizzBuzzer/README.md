@@ -9,9 +9,9 @@ _Since tinkering with that "2" in the original code provided an entry point to a
 
 _This is [one](https://github.com/KayserSoze42/extend.io/blob/main/src/FizzBuzzer/FizzBuzzer.vbs) silly result._
 
-_One of many._
+_[One](https://github.com/KayserSoze42/extend.io/blob/main/src/SlinkySearch/VBScript/AnythingGoogleSlinky.vbs) of many._
 
-_Many to come.._
+_Many more to come.._
 
 ## Usage
 
