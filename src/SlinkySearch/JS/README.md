@@ -1,6 +1,6 @@
 ### Slinky
 
-_Tampermonkey script that adds an item in context-menu (right click menu) for easier search._
+_Tampermonkey script that adds an item in context-menu (right click menu) for an easier search._
 
 _**AnythingGoogleSlinky.user.js**_ is provided as an example for a script that adds an option to search for _**Anything**_ on _**Google**_ under the Tampermonkey submenu.
 
