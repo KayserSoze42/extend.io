@@ -1,4 +1,4 @@
-## █▓▒░ SLinky - a Visual Basic .NET project
+## █▓▒░ SLinky - CLI - a Visual Basic .NET project
 
 ### ════════════
 
