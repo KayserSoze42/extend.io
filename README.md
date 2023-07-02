@@ -8,7 +8,7 @@ _A silly collection._
 
 ### ¿ Installation
 
-_There is a lot of information [here](https://greasyfork.org/en), [here](https://www.userscript.zone/howto), [there](https://openuserjs.org/), [here also](https://gist.github.com/search?l=JavaScript&o=desc&q=%22%3D%3DUserScript%3D%3D%22&s=updated), [maybe here](https://www.tampermonkey.net/scripts.php) and definitely [here](https://www.google.com)_
+_There is a lot of information [here](https://greasyfork.org/en), [here](https://www.userscript.zone/howto), [there](https://openuserjs.org/), [here also](https://gist.github.com/search?l=JavaScript&o=desc&q=%22%3D%3DUserScript%3D%3D%22&s=updated), [maybe here](https://www.tampermonkey.net/scripts.php) and definitely [here](https://www.seznam.cz)_
 
 ### ════════════
 
