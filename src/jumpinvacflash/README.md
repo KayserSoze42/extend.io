@@ -19,7 +19,7 @@ _Squirrel script for calculating distance jumped, and displaying the lenght in u
 
 #### References 
 
- - [CS:GO cfg binds](https://www.google.com/search?q=cs+go+binds)
+ - [CS:GO cfg binds](https://search.seznam.cz/?q=cs+go+binds&oq=cs+go+binds&aq=-1&sourceid=szn-HP&ks=11&ms=2556&sgId=MC4xNDIxNTY5NDQwMTUwNjY4NCAxNjg4MzAzNzM2LjUxMw%3D%3D&hpplaceholder=%22Co+s+sebou+na+vodu%22)
 
  - [VScript](https://developer.valvesoftware.com/wiki/VScript)
 
