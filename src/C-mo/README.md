@@ -4,7 +4,7 @@ _Tampermonkey script to "broaden the horizons", wink wink._
 
 _To quote from the gospels of one Omar Devone Little:_ 
 
-    Hate the game, not the wannabe coder.
+    Hate the game, not the wannabe modder.
 
 _This is one of those files that I feel somewhat confident with sharing, and yet again feel scared for the implications._
 
