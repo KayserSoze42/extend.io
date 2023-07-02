@@ -2,11 +2,11 @@
 
 _Tampermonkey script that adds an item in context-menu (right click menu) for an easier search._
 
-_**AnythingGoogleSlinky.user.js**_ is provided as an example for a script that adds an option to search for _**Anything**_ on _**Google**_ under the Tampermonkey submenu.
+_**AnythingSeznamSlinky.user.js**_ is provided as an example for a script that adds an option to search for _**Anything**_ on _**Seznam**_ under the Tampermonkey submenu.
 
-When clicked, it will get the text that is currently selected and join it with the rest of the url in the format of:
+When clicked, it will get the text that is currently selected on the page, join it with the rest of the url in the format of:
 
-    https://www.google.com/search?q= + selectedtext 
+    https://search.seznam.cz/?q= + selectedtext 
     
 and open the joined url in a new tab.
 

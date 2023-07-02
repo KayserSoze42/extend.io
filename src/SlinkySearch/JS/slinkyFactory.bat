@@ -9,7 +9,7 @@ echo -----
 echo Enter the name of the item to be searched: (e.g. Ticket Number, ID...)
 set /p searchItem=
 echo -----
-echo Enter the name of the search used: (e.g. Google, Database...)
+echo Enter the name of the search used: (e.g. Seznam, Database...)
 set /p searchName=
 echo -----
 

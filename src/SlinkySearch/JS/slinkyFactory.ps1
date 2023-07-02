@@ -7,7 +7,7 @@ Write-Output "-----"
 Write-Output "Enter the name of the item to be searched: (e.g. Ticket Number, ID...)"
 $searchItem = Read-Host -Prompt :
 Write-Output "-----"
-Write-Output "Enter the name of the search used: (e.g. Google, Database...)"
+Write-Output "Enter the name of the search used: (e.g. Seznam, Database...)"
 $searchName = Read-Host -Prompt :
 Write-Output -----
 

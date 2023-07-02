@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Search for Anything on Google
+// @name         Search for Anything on Seznam
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  SlinkySearch Script For A Custom Search
@@ -11,6 +11,6 @@
 (function() {
 'use strict';
 var selectedText = window.getSelection().toString();
-var url = "https://www.google.rs/search?q=" + selectedText + "";
+var url = "https://search.seznam.cz/?q=" + selectedText + "";
 GM_openInTab(url, false);
 })();
