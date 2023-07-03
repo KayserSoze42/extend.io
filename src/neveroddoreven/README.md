@@ -35,3 +35,9 @@ see also: [SaveTheOzone](https://github.com/KayserSoze42/SaveTheOzone), [ozone](
 #### [.py file](https://github.com/KayserSoze42/extend.io/tree/main/src/neveroddoreven/nosJ/2nos4J.py)
 
 ### ════════════
+
+### Ø [stoposto](https://github.com/KayserSoze42/extend.io/tree/main/src/neveroddoreven/stoposto)
+
+[.py file](https://github.com/KayserSoze42/extend.io/tree/main/src/neveroddoreven/stoposto/stoposto.py)
+
+### ════════════

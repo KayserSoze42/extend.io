@@ -108,6 +108,11 @@ see also: [SaveTheOzone](https://github.com/KayserSoze42/SaveTheOzone), [ozone](
 
 ### ════════════
 
+### Ø [stoposto](https://github.com/KayserSoze42/extend.io/tree/main/src/neveroddoreven/stoposto)
+
+[.py file](https://github.com/KayserSoze42/extend.io/tree/main/src/neveroddoreven/stoposto/stoposto.py)
+
+### ════════════
 
 ## █▓▒░ [_root_](https://github.com/KayserSoze42/extend.io/tree/main/src/root)
 
