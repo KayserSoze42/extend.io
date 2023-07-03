@@ -1,4 +1,4 @@
-### Slinky
+# Slinky
 
 _Tampermonkey script that adds an item in context-menu (right click menu) for an easier search._
 

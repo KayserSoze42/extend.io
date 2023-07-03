@@ -1,4 +1,4 @@
-### C-mo
+# C-mo
 
 _Tampermonkey script to "broaden the horizons", wink wink._
 
@@ -32,6 +32,6 @@ _And the end: But we still want to see the info. On the results page. When we ho
 
 _It is still in a working condition \*slaps regex\*, just as the day I wrote it, and I was offerred pictures to present alongside the code._
 
-_The name is a play on BMO from Adventure Time, and this was a point I started straying away from JavaScript._
+_The name is a play on BMO from Adventure Time, and this was a point I started straying from JavaScript._
 
 
