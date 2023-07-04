@@ -14,7 +14,7 @@ _There is a lot of information [here](https://greasyfork.org/en), [here](https:/
 
 ### Ø [Slinky](https://github.com/KayserSoze42/extend.io/tree/main/src/SlinkySearch/JS)
 
-#### User JS Extension File: [.user.js](https://github.com/KayserSoze42/extend.io/blob/main/src/SlinkySearch/JS/AnythingGoogleSlinky.user.js)
+#### User JS Extension File: [.user.js](https://github.com/KayserSoze42/extend.io/blob/main/src/SlinkySearch/JS/AnythingSeznamSlinky.user.js)
 
 #### Build Scripts/Factories: [.bat](https://github.com/KayserSoze42/extend.io/blob/main/src/SlinkySearch/JS/slinkyFactory.bat), [.ps1](https://github.com/KayserSoze42/extend.io/blob/main/src/SlinkySearch/JS/slinkyFactory.ps1)
 
