@@ -10,7 +10,7 @@ _Think I'll buy me a football team ♫_
 
 A simple, and for some reason [_Classy way_](https://github.com/KayserSoze42/extend.io/edit/main/src/neveroddoreven/stoposto/stoposto.py) of checking the status of the stimulus that was provided as an aid in _times of dire straits_.
 
-Using _**selenium**_ and _**telegram-send**_.
+Using _**schedule**_, _**selenium**_ and _**telegram-send**_.
 
 ---
 
