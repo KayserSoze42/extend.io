@@ -22,9 +22,15 @@ see also [SlinkySearch](https://github.com/KayserSoze42/extend.io/tree/main/src/
 
 ### ════════════
 
-### Ø [C-mo](https://github.com/KayserSoze42/extend.io/tree/main/src/C-mo)
+### Ø [C-mo](https://github.com/KayserSoze42/extend.io/tree/main/src/fomoapeiens/C-mo)
 
-#### User JS Extension File: [.user.js](https://github.com/KayserSoze42/extend.io/blob/main/src/C-mo/C-mo.user.js)
+#### User JS Extension File: [.user.js](https://github.com/KayserSoze42/extend.io/blob/main/src/fomoapeiens/C-mo/C-mo.user.js)
+
+### ════════════
+
+### Ø [dæ_mo](https://github.com/KayserSoze42/extend.io/tree/main/src/fomoapeiens/de_mo)
+
+#### User JS Extension File: [.user.js](https://github.com/KayserSoze42/extend.io/blob/main/src/fomoapeiens/de_mo/de_mo.user.js)
 
 ### ════════════
 
@@ -32,23 +38,9 @@ see also [SlinkySearch](https://github.com/KayserSoze42/extend.io/tree/main/src/
 
 ### ════════════
 
-### ¿ Installation
+### Ø [Jumpin' VAC Flash](https://github.com/KayserSoze42/extend.io/tree/main/src/VScript/css/jumpinvacflash)
 
-- For _**scriptname**_**.nut** scripts
-    
-    * Copy the script file to 
-    
-            Counter-Strike Global Offensive\csgo\scripts\vscripts
-            
-    * Execute the script in the Developer Console using:
-    
-            script_execute scriptname
-
-### ════════════
-
-### Ø [Jumpin' VAC Flash](https://github.com/KayserSoze42/extend.io/tree/main/src/jumpinvacflash)
-
-#### VScript/Squirrel File: [.nut](https://github.com/KayserSoze42/extend.io/tree/main/src/jumpinvacflash/jjf.nut) 
+#### VScript/Squirrel File: [.nut](https://github.com/KayserSoze42/extend.io/tree/main/src/VScript/css/jumpinvacflash/jjf.nut) 
 
 ### ════════════ 
 
@@ -74,11 +66,11 @@ see also [SlinkySearch](https://github.com/KayserSoze42/extend.io/tree/main/src/
 
 ### ════════════
 
-### Ø [SLinky - CLI](https://github.com/KayserSoze42/extend.io/tree/main/src/SlinkySearch/VB.NET)
+### Ø [SLinky - CLI](https://github.com/KayserSoze42/extend.io/tree/main/src/dotNyet/SlinkySearch/VB.NET)
 
-### Ø [VB Slinky](https://github.com/KayserSoze42/extend.io/blob/main/src/SlinkySearch/VBScript/AnythingGoogleSlinky.vbs)
+### Ø [VB Slinky](https://github.com/KayserSoze42/extend.io/blob/main/src/dotNyet/SlinkySearch/VBSlinky/AnythingGoogleSlinky.vbs)
 
-see also [SlinkySearch](https://github.com/KayserSoze42/extend.io/tree/main/src/SlinkySearch)
+see also [SlinkySearch](https://github.com/KayserSoze42/extend.io/tree/main/src/dotNyet/SlinkySearch)
 
 ### ════════════
 

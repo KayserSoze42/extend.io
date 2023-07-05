@@ -9,3 +9,7 @@ All 10 lines were written in [_**Kotlin.**_](https://en.wikipedia.org/wiki/Kotli
 The computer it was written on, is also a [funny story](https://en.wikipedia.org/wiki/Ship_of_Theseus) so .apks is all I have.
 
 I am uploading the unsigned [.apk](https://github.com/KayserSoze42/extend.io/releases/tag/0.0.1-app-druid) file, and creating this README.md as a silly entry and a lesson for otters.
+
+_see also: [SaveTheOzone](https://github.com/KayserSoze42/SaveTheOzone), [ozone](https://www.plaintech.ink/ozone) [project](https://github.com/KayserSoze42/ozone), [appDruid](https://github.com/KayserSoze42/extend.io/tree/main/src/root/appDruid)_
+
+_[oxygen3?](https://github.com/KayserSoze42/oxygen3)_

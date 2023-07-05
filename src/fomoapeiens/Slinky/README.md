@@ -16,12 +16,10 @@ Besides the example script there is also a "factory" script that generates a cus
 
 #### Planned Changes
 
-- Add script for Greasemonkey (It was made for it originally)
-
-- Increase functionality
-
-  * Add the option for menu items name to reflect: Search for **selected text** on **search name**
+- Increase functionality++
 
 - Add more factory scripts
 
 --------------------
+
+_see also:_ []() []() []()
