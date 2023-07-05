@@ -11,7 +11,7 @@ _This is [one](https://github.com/KayserSoze42/extend.io/blob/main/src/FizzBuzze
 
 _[One](https://github.com/KayserSoze42/extend.io/blob/main/src/SlinkySearch/VBScript/AnythingGoogleSlinky.vbs) of many._
 
-_Many more to come.._
+_[Many more](https://github.com/KayserSoze42/extend.io) to come.._
 
 ## Usage
 
