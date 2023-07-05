@@ -12,7 +12,7 @@ _There is a lot of information [here](https://greasyfork.org/en), [here](https:/
 
 ### ════════════
 
-### Ø [Slinky](https://github.com/KayserSoze42/extend.io/tree/main/src/SlinkySearch/JS)
+### Ø [Slinky](https://github.com/KayserSoze42/extend.io/tree/main/src/fomoapeiens/Slinky)
 
 #### User JS Extension File: [.user.js](https://github.com/KayserSoze42/extend.io/blob/main/src/SlinkySearch/JS/AnythingSeznamSlinky.user.js)
 
@@ -62,7 +62,7 @@ see also [SlinkySearch](https://github.com/KayserSoze42/extend.io/tree/main/src/
 
 ### ════════════
 
-### Ø [FizzBuzzer](https://github.com/KayserSoze42/extend.io/tree/main/src/FizzBuzzer)
+### Ø [FizzBuzzer](https://github.com/KayserSoze42/extend.io/tree/main/src/dotNyet/FizzBuzzer)
 
 ### ════════════
 
