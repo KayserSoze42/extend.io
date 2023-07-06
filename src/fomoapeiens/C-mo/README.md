@@ -10,7 +10,7 @@ _This is one of those files that I feel somewhat confident with sharing, and yet
 
 _Bitter-sweet stuff._
 
-_It's one of the "cooler" JavaScript thingies I still have, so [here](https://www.github.com/kaysersoze42/extend.io/src/fomoapeiens/C-mo) you have it [2](https://www.github.com/kaysersoze42/extend.io/src/fomoapeiens/de_mo/de_mo.user.js)._
+_It's one of the "cooler" JavaScript thingies I still have, so [here](https://github.com/KayserSoze42/extend.io/blob/main/src/fomoapeiens/C-mo/C-mo.user.js) you have it [2](https://github.com/KayserSoze42/extend.io/blob/main/src/fomoapeiens/de_mo/de_mo.user.js)._
 
 ----
 
