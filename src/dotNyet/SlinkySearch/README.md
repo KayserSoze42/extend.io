@@ -10,7 +10,7 @@ Also with some fun() factories, made with hope of saving a step more.
 
 ### ════════════
 
-### Ø [VB Slinky](https://github.com/KayserSoze42/extend.io/blob/main/src/dotNyetSlinkySearch/VBSlinky/AnythingGoogleSlinky.vbs)
+### Ø [VB Slinky](https://github.com/KayserSoze42/extend.io/blob/main/src/dotNyet/SlinkySearch/VBSlinky/AnythingSeznamSlinky.vbs)
 
 ### ════════════
 
