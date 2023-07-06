@@ -15,10 +15,10 @@ _[Many more](https://github.com/KayserSoze42/extend.io) to come.._
 
 ## Usage
 
-![a](https://github.com/KayserSoze42/extend.io/blob/main/src/dotNyet/FizzBuzzer/a.png?raw=true)
+![a](https://github.com/KayserSoze42/ink/blob/main/src/main/java/ink/oxiemoron/lol/extend.io/src/donNyet/FizzBuzzer/a.png?raw=true)
 
 ## Result
 
-![b](https://github.com/KayserSoze42/extend.io/blob/main/src/dotNyet/FizzBuzzer/b.png?raw=true)
+![b](https://github.com/KayserSoze42/ink/blob/main/src/main/java/ink/oxiemoron/lol/extend.io/src/donNyet/FizzBuzzer/b.png?raw=true)
 
 _rapid fizz/buzz development_

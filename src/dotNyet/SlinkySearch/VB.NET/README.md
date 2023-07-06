@@ -12,13 +12,13 @@ _Download the [.zip file](https://github.com/KayserSoze42/extend.io/releases/tag
 
 #### ºº ___init™__ phase_
 
-![init](https://github.com/KayserSoze42/extend.io/blob/main/src/SlinkySearch/VB.NET/guides/SLinky%20VB.NET/1.png/?raw=true)
+![init](https://github.com/KayserSoze42/ink/blob/main/src/main/java/ink/oxiemoron/lol/extend.io/src/donNyet/SLinky%20-%20CLI/1.png?raw=true)
 
 _On first run select **NEW FILE**_
 
 #### º¹ _persistence™ and modularity™_
 
-![init](https://github.com/KayserSoze42/extend.io/blob/main/src/SlinkySearch/VB.NET/guides/SLinky%20VB.NET/2.png/?raw=true)
+![init](https://github.com/KayserSoze42/ink/blob/main/src/main/java/ink/oxiemoron/lol/extend.io/src/donNyet/SLinky%20-%20CLI/2.png?raw=true)
 
 _Select your favorite directory and invent a file._
 
@@ -26,11 +26,11 @@ _**%AppData%** is one interesting choice.._
 
 #### ¹º [_Wizards™©®_](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/bb246410(v=vs.85))
 
-![init](https://github.com/KayserSoze42/extend.io/blob/main/src/SlinkySearch/VB.NET/guides/SLinky%20VB.NET/3.png/?raw=true)
+![init](https://github.com/KayserSoze42/ink/blob/main/src/main/java/ink/oxiemoron/lol/extend.io/src/donNyet/SLinky%20-%20CLI/3.png?raw=true)
 
 #### ¹¹ _surf the u(ν)verse™_
 
-![init](https://github.com/KayserSoze42/extend.io/blob/main/src/SlinkySearch/VB.NET/guides/SLinky%20VB.NET/4.png/?raw=true)
+![init](https://github.com/KayserSoze42/ink/blob/main/src/main/java/ink/oxiemoron/lol/extend.io/src/donNyet/SLinky%20-%20CLI/4.png?raw=true)
 
 ### ════════════
 
