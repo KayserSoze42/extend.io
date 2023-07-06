@@ -16,7 +16,7 @@ _There is a lot of information [here](https://greasyfork.org/en), [here](https:/
 
 #### User JS Extension File: [.user.js](https://github.com/KayserSoze42/extend.io/blob/main/src/fomoapeiens/Slinky/AnythingSeznamSlinky.user.js)
 
-#### Build Scripts/Factories: [.bat](https://github.com/KayserSoze42/extend.io/blob/main/src/fomoapeiens/Slinky/slinkyFactory.bat), [.ps1](https://github.com/KayserSoze42/extend.io/blob/main/fomoapeiens/Slinky/slinkyFactory.ps1)
+#### Build Scripts/Factories: [.bat](https://github.com/KayserSoze42/extend.io/blob/main/src/fomoapeiens/Slinky/slinkyFactory.bat), [.ps1](https://github.com/KayserSoze42/extend.io/blob/main/src/fomoapeiens/Slinky/slinkyFactory.ps1)
 
 see also [SlinkySearch](https://github.com/KayserSoze42/extend.io/tree/main/src/dotNyet/SlinkySearch)
 
