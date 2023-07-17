@@ -1,6 +1,6 @@
 # nosJ 2: 2 nos 4 J..
 
-_Please refer to my [reasonings](https://github.com/KayserSoze42/extend.io/tree/main/src/C-mo)._
+_Please refer to my [reasonings](https://github.com/KayserSoze42/extend.io/tree/main/src/fomoapeiens/C-mo)._
 
 _[One](https://github.com/KayserSoze42/extend.io/blob/main/src/neveroddoreven/nosJ/2nos4J.py) from a small number of iterations, you can kinda figure out the point._
 
