@@ -9,7 +9,7 @@ _Tinkering with that ["2"](https://learn.microsoft.com/en-us/office/vba/language
 
 _This is [one](https://github.com/KayserSoze42/extend.io/blob/main/src/dotNyet/FizzBuzzer/FizzBuzzer.vbs) silly result._
 
-_[One](https://github.com/KayserSoze42/extend.io/blob/main/src/dotNyet/SlinkySearch/VBScript/AnythingSeznamSlinky.vbs) of many._
+_[One](https://github.com/KayserSoze42/extend.io/tree/main/src/dotNyet/SlinkySearch/VBSlinky) of many._
 
 _[Many more](https://github.com/KayserSoze42/extend.io) to come.._
 
