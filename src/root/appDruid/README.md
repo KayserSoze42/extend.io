@@ -10,6 +10,6 @@ The computer it was written on, is also a [funny story](https://en.wikipedia.org
 
 I am uploading the unsigned [.apk](https://github.com/KayserSoze42/extend.io/releases/tag/0.0.1-app-druid) file, and creating this README.md as a silly entry and a lesson for otters.
 
-_see also: [SaveTheOzone](https://github.com/KayserSoze42/SaveTheOzone), [ozone](https://www.plaintech.ink/ozone) [project](https://github.com/KayserSoze42/ozone) [theOzone](https://github.com/KayserSoze42/extend.io/tree/main/src/neveroddoreven/theOzone)_
+_see also: [SaveTheOzone](https://github.com/KayserSoze42/SaveTheOzone), [ozone](https://www.plaintech.ink/ozone) [project](https://github.com/KayserSoze42/ozone), [theOzone](https://github.com/KayserSoze42/extend.io/tree/main/src/neveroddoreven/theOzone)_
 
 _[oxygen3?](https://github.com/KayserSoze42/oxygen3)_
