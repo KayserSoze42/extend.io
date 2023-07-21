@@ -41,3 +41,12 @@ see also: [SaveTheOzone](https://github.com/KayserSoze42/SaveTheOzone), [ozone](
 [.py file](https://github.com/KayserSoze42/extend.io/tree/main/src/neveroddoreven/stoposto/stoposto.py)
 
 ### ════════════
+
+
+### Ø [myth](https://www.github.com/kaysersoze42/extend.io/src/neveroddoreven/myth/)
+
+[.py file](https://www.github.com/kaysersoze42/extend.io/src/neveroddoreven/myth/primo.py)
+
+### ════════════
+
+
