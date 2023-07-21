@@ -106,9 +106,9 @@ see also: [SaveTheOzone](https://github.com/KayserSoze42/SaveTheOzone), [ozone](
 
 ### ════════════
 
-### Ø [myth](https://www.github.com/kaysersoze42/extend.io/tree/src/neveroddoreven/myth/)
+### Ø [myth](https://github.com/KayserSoze42/extend.io/tree/main/src/neveroddoreven/myth)
 
-[.py file](https://www.github.com/KayserSoze42/extend.io/blob/src/neveroddoreven/myth/primo.py)
+[.py file](https://github.com/KayserSoze42/extend.io/blob/main/src/neveroddoreven/myth/primo.py)
 
 ### ════════════
 
