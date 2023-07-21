@@ -7,6 +7,6 @@ _Believe it or not, my silliest "math inadeqations" were written on a semi-endle
 _'nough said.. haha_
 
 
-[primo.py](https://www.github.com/kaysersoze42/extend.io/src/neveroddoreven/myth/primo.py)
+[primo.py](https://www.github.com/KayserSoze42/extend.io/blob/src/neveroddoreven/myth/primo.py)
  
 
