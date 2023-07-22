@@ -22,4 +22,4 @@ Besides the example script there is also a "factory" script that generates a cus
 
 --------------------
 
-_see also:_ []() []() []()
+_see also:_ [SlinkySearch](https://github.com/KayserSoze42/extend.io/tree/main/src/dotNyet/SlinkySearch)

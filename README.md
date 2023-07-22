@@ -126,4 +126,10 @@ see also [SaveTheOzone](https://github.com/KayserSoze42/SaveTheOzone), [ozone](h
 
 ### ════════════
 
+## █▓▒░ [_Shhh.._](https://github.com/KayserSoze42/extend.io/tree/main/src/shh)
 
+### ════════════
+
+### Ø [SHlinky](https://github.com/KayserSoze42/extend.io/blob/main/src/shh/SHlinky)
+
+### ════════════

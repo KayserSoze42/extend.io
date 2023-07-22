@@ -17,3 +17,7 @@ Also with some fun() factories, made with hope of saving a step more.
 ### Ø [Tm JS Slinky](https://github.com/KayserSoze42/extend.io/blob/main/src/fomoapeiens/Slinky)
 
 ### ════════════
+
+### Ø [SHlinky](https://github.com/KayserSoze42/extend.io/blob/main/src/shh/SHlinky)
+
+### ════════════
