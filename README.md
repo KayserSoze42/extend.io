@@ -16,7 +16,7 @@ _There is a lot of information [here](https://greasyfork.org/en), [here](https:/
 
 #### User JS Extension File: [.user.js](https://github.com/KayserSoze42/extend.io/blob/main/src/fomoapeiens/Slinky/AnythingSeznamSlinky.user.js)
 
-#### Build Scripts/Factories: [.bat](https://github.com/KayserSoze42/extend.io/blob/main/src/fomoapeiens/Slinky/slinkyFactory.bat), [.ps1](https://github.com/KayserSoze42/extend.io/blob/main/src/fomoapeiens/Slinky/slinkyFactory.ps1)
+#### Build Scripts/Factories: [.bat](https://github.com/KayserSoze42/extend.io/blob/main/src/fomoapeiens/Slinky/slinkyFactory.bat), [.ps1](https://github.com/KayserSoze42/extend.io/blob/main/src/fomoapeiens/Slinky/slinkyFactory.ps1), [.sh](https://github.com/KayserSoze42/extend.io/blob/main/src/fomoapeiens/Slinky/shlinkyFactory.sh)
 
 see also [SlinkySearch](https://github.com/KayserSoze42/extend.io/tree/main/src/dotNyet/SlinkySearch)
 
@@ -69,6 +69,10 @@ see also [SlinkySearch](https://github.com/KayserSoze42/extend.io/tree/main/src/
 ### Ø [SLinky - CLI](https://github.com/KayserSoze42/extend.io/tree/main/src/dotNyet/SlinkySearch/VB.NET)
 
 ### Ø [VB Slinky](https://github.com/KayserSoze42/extend.io/tree/main/src/dotNyet/SlinkySearch/VBSlinky)
+
+#### [.vbs file](https://github.com/KayserSoze42/extend.io/tree/main/src/dotNyet/SlinkySearch/VBSlinky/AnythingSeznamSlinky.vbs)
+
+#### Build Scripts/Factories: [.bat](https://github.com/KayserSoze42/extend.io/blob/main/src/dotNyet/SlinkySearch/VBSlinky/vbslinkyFactory.bat), [.ps1](https://github.com/KayserSoze42/extend.io/blob/main/src/dotNyet/SlinkySearch/VBSlinky/vbslinkyFactory.ps1), [.sh](https://github.com/KayserSoze42/extend.io/blob/main/src/dotNyet/SlinkySearch/VBSlinky/vbshlinkyFactory.sh)
 
 see also [SlinkySearch](https://github.com/KayserSoze42/extend.io/tree/main/src/dotNyet/SlinkySearch)
 
@@ -131,5 +135,9 @@ see also [SaveTheOzone](https://github.com/KayserSoze42/SaveTheOzone), [ozone](h
 ### ════════════
 
 ### Ø [SHlinky](https://github.com/KayserSoze42/extend.io/blob/main/src/shh/SHlinky)
+
+#### [.sh file](https://github.com/KayserSoze42/extend.io/blob/main/src/shh/SHlinky/AnythingSeznamSHlinky.sh)
+
+#### Build Scripts/Factories: [.bat](https://github.com/KayserSoze42/extend.io/blob/main/src/shh/SHlinky/shlinkyFactory.bat), [.ps1](https://github.com/KayserSoze42/extend.io/blob/main/src/shh/SHlinky/shlinkyFactory.ps1), [.sh](https://github.com/KayserSoze42/extend.io/blob/main/src/shh/SHlinky/shlinkyFactory.sh)
 
 ### ════════════
