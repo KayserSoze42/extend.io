@@ -62,7 +62,9 @@ see also [SlinkySearch](https://github.com/KayserSoze42/extend.io/tree/main/src/
 
 ### ════════════
 
-### Ø [FizzBuzzer](https://github.com/KayserSoze42/extend.io/tree/main/src/dotNyet/FizzBuzzer)
+### Ø [FizzBuzzer](https://github.com/KayserSoze42/extend.io/tree/main/src/dotNyet/VisualMath/FizzBuzzer)
+
+### Ø [Primo](https://github.com/KayserSoze42/extend.io/tree/main/src/dotNyet/VisualMath/Primo/primo.vbs)
 
 ### ════════════
 
