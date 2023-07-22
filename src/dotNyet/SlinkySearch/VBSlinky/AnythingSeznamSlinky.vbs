@@ -13,5 +13,3 @@ fullUrl = urlStart & search & urlEnd
 Set objShell = CreateObject("Shell.Application")
 objShell.ShellExecute "firefox.exe", fullUrl, "", "", 1
 Set objShell = Nothing
-
-
