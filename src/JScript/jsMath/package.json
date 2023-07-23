@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "jsmath",
+  "version": "1.0.0",
+  "description": "js math..",
+  "main": "entree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OxieMoron",
+  "license": "MIT"
+}
