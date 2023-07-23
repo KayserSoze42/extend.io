@@ -22,32 +22,34 @@ readline.question('Enter the range start: ', rangeStart => {
 
 				buzzCon = parseInt(buzzCon);
 
-				var output = "";
-				var result;
+				var result = "";
+				var reason;
 
 				for (var i=rangeStart; i<rangeEnd; i++){
 
-					result = "NaFB";
+					reason = "NaFB";
+					result = "";
 
 					if (i % fizzCon == 0) { 
 
-						output += "Fizz";
-						result = `Divisible by ${fizzCon}`;
+						result += "Fizz";
+						reason = `Divisible by ${fizzCon}`;
 					}
 
 					if (i % buzzCon == 0) { 
 
-						output += "Buzz";
-						result = `Divisible by ${buzzCon}`;
+						result += "Buzz";
+						reason = `Divisible by ${buzzCon}`;
 					}
 
 					if (i % fizzCon == 0 && i % buzzCon == 0) {
 
-						result = `Divisible by both ${fizzCon} and ${buzzCon}`;
+						result = "2Fizzey&2Buzzey";
+						reason = `Divisible by both ${fizzCon} and ${buzzCon}`;
 
 					}
 
-					console.log(`Number: ${i}, Result: ${result}`)
+					console.log(`Number: ${i}, Result: ${result}, Reason: ${reason}`)
 
 
 				}

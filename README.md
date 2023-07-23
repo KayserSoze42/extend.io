@@ -152,6 +152,11 @@ see also [SaveTheOzone](https://github.com/KayserSoze42/SaveTheOzone), [ozone](h
 
 see also [FizzBuzzer](https://github.com/KayserSoze42/extend.io/blob/main/src/dotNyet/VisualMath/FizzBuzzer) 
 
+### Ø [primo](https://github.com/KayserSoze42/extend.io/tree/main/src/JScript/primo.js)
+
+see also [primo.py](https://github.com/KayserSoze42/extend.io/blob/main/src/neveroddoreven/myth/primo.py), [primo.vbs](https://www.github.com/kaysersoze42/extend.io/blob/main/src/dotNyet/VisualMath/Primo/primo.vbs) 
+
 ### ════════════
+
 
 
