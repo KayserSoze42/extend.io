@@ -143,3 +143,15 @@ see also [SaveTheOzone](https://github.com/KayserSoze42/SaveTheOzone), [ozone](h
 #### Build Scripts/Factories: [.bat](https://github.com/KayserSoze42/extend.io/blob/main/src/shh/SHlinky/shlinkyFactory.bat), [.ps1](https://github.com/KayserSoze42/extend.io/blob/main/src/shh/SHlinky/shlinkyFactory.ps1), [.sh](https://github.com/KayserSoze42/extend.io/blob/main/src/shh/SHlinky/shlinkyFactory.sh)
 
 ### ════════════
+
+## █▓▒░ [_JScript_](https://github.com/KayserSoze42/extend.io/tree/main/src/JScript)
+
+### ════════════
+
+### Ø [fizzBuzzer](https://github.com/KayserSoze42/extend.io/tree/main/src/JScript/fizzBuzzer.js)
+
+see also [FizzBuzzer](https://github.com/KayserSoze42/extend.io/blob/main/src/dotNyet/VisualMath/FizzBuzzer) 
+
+### ════════════
+
+
