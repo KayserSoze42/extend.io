@@ -1,5 +1,15 @@
-main :: IO()
+doubled :: Int -> Int
+doubled x = x * 2
 
+main :: IO()
 main = do
-    let a = "Why, hello there"
-    print (a)
+
+  print ("Enter any number:")
+  input <- getLine
+
+  let number = read input :: Int
+  print ("Number: " ++ show (number))
+
+  let doubledNumber = doubled number
+
+  print ("Doubled number: " ++ show (doubledNumber))
